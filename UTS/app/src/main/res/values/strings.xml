@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Daftar Menu Makanan</string>
+
+    <string-array name="menu_makanan">
+        <item>Ayam Geprek</item>
+        <item>Ayam Penyet</item>
+        <item>Bakso</item>
+        <item>Bakso Bakar</item>
+        <item>Mie Gacoan</item>
+        <item>Opor Ayam Panggang</item>
+        <item>Sate Ayam</item>
+        <item>Sop Buntut</item>
+        <item>Soto Lamongan</item>
+        <item>Tahu Gimbal</item>
+    </string-array>
+
+    <string-array name="price">
+        <item>Rp. 16.000.00</item>
+        <item>Rp. 12.000.00</item>
+        <item>Rp. 13.000.00</item>
+        <item>Rp. 10.000.00</item>
+        <item>Rp. 18.000.00</item>
+        <item>Rp. 15.000.00</item>
+        <item>Rp. 25.000.00</item>
+        <item>Rp. 35.000.00</item>
+        <item>Rp. 32.000.00</item>
+        <item>Rp. 18.000.00</item>
+    </string-array>
+
+    <string-array name="deskripsi">
+        <item>Ayam Geprek adalah sajian makanan ayam goreng tepung dengan cara digeprek/ditumbuk dengan ulekan bersamaan dengan sambalnya hingga daging menjadi rata. Makanan khas kota Yogyakarta ini memang sudah dikenal oleh banyak masyarakat. Berbahan dasar ayam yang dilumuri tepung membuatnya menjadi ”crunchy” serta nikmat.</item>
+        <item>Ayam Penyet adalah olahan daging ayam yang terkenal berasal dari Surabaya, Jawa Timur. Umumnya, ayam penyet disajikan bersama sambal merah, sambal tomat, sambal bawang dan sambal lainnya, bersama tahu dan tempe goreng, lalapan juga nasi putih hangat. Proses pembuatannya, daging ayam diungkap bersama bumbu hingga matang dan kemudian bumbunya digoreng. Ayam goreng yang sudah matang kemudian dipenyet atau dipipihkan di atas sambal.</item>
+        <item>Bakso merupakan campuran daging sapi giling yang dicampur tepung tapioca dan dibentuk mirip bola-bola kecil, biasanya menggunakan daging sapi tapi banyak juga yang menggunakan  daging ikan,ayam,udang,kerbau . Bakso disajikan dalam keadaan panas dengan kuah bening biasanya juga di tambahkan mie dan bihun serta telur kemudian di taburi bawang goreng.</item>
+        <item>Bakso Bakar adalah sebuah jenis hidangan bakso yang dibuat dengan cara dibakar dan kemudian ditusuk memakai tusuk sate sebelum akhirnya diberi bumbu. Hidangan tersebut berasal dari kota Malang.</item>
+        <item>Mie Iblis atau yang biasa disebut dengan mie gacoan ini terkenal dengan cita rasa pedas. Berbeda dengan jenis mie lainnya, mie gacoan menggunakan cabai halus sehingga mudah tercampur dengan mie. Rasanya yang pedas dan gurih, menjadikan makanan ini sangat digemari kawula muda</item>
+        <item>Opor Ayam Panggang adalah opor khas Jepara. Opor pangggang Jepara cara membuatnya ayam kampung dimasak dengan kuah opor dahulu, kemudiaan ayam di panggang menggunakan paso, Paso adalah wadah berbentuk bak yang terbuat dari tanah liat. Lalu ayam di sajikan dengan kuah opor.</item>
+        <item>Sate Ayam  adalah makanan jenis sate yang terbuat dari bahan dasar daging ayam dan diolah dengan racikan bumbu yang khas dari Madura, Jawa Timur. dengan proses pengolahan daging yang sudah ditusuk dicelupkan kedalam bumbu kemudian dipanggang arang batok kelapa. Pada saat pemanggangan sering kali sate tersebut diolesi dengan minyak ayam untuk memperkuat aroma. Selain itu ada juga yang menaburi arang dengan perasan jeruk limau agar sate tidak terlalu bau asap.Sate ayam disajikan dengan kecap, potongan lontong, irisan jeruk nipis dan acar bumbu kacang goreng yang ditumbuk hingga halus dan diolah dengan bumbu khusus.</item>
+        <item>Sop Buntut adalah masakan khas Indonesia. Terbuat dari potongan ekor sapi yang dibumbui kemudian dibakar atau digoreng dan dimasukkan ke dalam kuah kaldu sapi yang agak bening bersama irisan kentang, wortel, tomat, daun bawang, seledri dan taburan bawang goreng.</item>
+        <item>Soto Lamongan adalah sajian makanan soto ayam yang khas dari Lamongan, Jawa Timur. Salah satu ciri khas dari Soto Lamongan ini terletak pada kuah yang sedikit kuning dengan rasa ayam yang sangat terasa dan serbuk krupuk udangnya yang sering disebut Poya. Selain itu didukung dengan isi soto seperti suwiran daging ayam, daun bawang, telur dan bahan lainnya membuat Soto Lamongan ini sangat kaya akan rasa.</item>
+        <item>Tahu Gimbal merupakan masakan khas Semarang yang terbuat dari tahu goreng, sayuran, dan bakwan udang. Sajian tahu ini kemudian ditambahkan dengan kuah kacang yang mana kacang gorengnya ditumbuk kasar.</item>
+    </string-array>
+</resources>
