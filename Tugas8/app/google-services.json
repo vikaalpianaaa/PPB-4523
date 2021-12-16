@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "265660723516",
+    "firebase_url": "https://vikaproject-caa83-default-rtdb.firebaseio.com",
+    "project_id": "vikaproject-caa83",
+    "storage_bucket": "vikaproject-caa83.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:265660723516:android:c1940f2a7673a27c9eee39",
+        "android_client_info": {
+          "package_name": "com.example.myfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "265660723516-p5m275qj49m30qqi8fn38mllqgrovq85.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTtXHHhzp0_KCJqUVE9YLeXB0lPaQmfdY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "265660723516-p5m275qj49m30qqi8fn38mllqgrovq85.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
