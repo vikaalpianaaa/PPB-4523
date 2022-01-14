@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@color/lavender"
-    tools:context=".SplashActivity">
+    tools:context=".Splash_Activity">
 
     <TextView
         android:id="@+id/textView"
@@ -31,5 +31,5 @@
         app:layout_constraintHorizontal_bias="0.497"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:srcCompat="@drawable/FLASH" />
+        app:srcCompat="@drawable/flash" />
 </androidx.constraintlayout.widget.ConstraintLayout>

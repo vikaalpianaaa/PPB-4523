@@ -1,10 +1,12 @@
+package com.example.daftarmenumakanan;
+
 import android.content.Intent;
 import android.os.Bundle;
 import android.os.Handler;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-public class SplashActivity extends AppCompatActivity {
+public class Splash_Activity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -15,9 +17,10 @@ public class SplashActivity extends AppCompatActivity {
         handler.postDelayed(new Runnable() {
             @Override
             public void run() {
-                startActivity(new Intent(SplashActivity.this , CAFFE.class));
+                startActivity(new Intent(Splash_Activity.this , MainActivity.class));
                 finish();
             }
-        }, 3000);
+        }, 5000);
     }
+
 }

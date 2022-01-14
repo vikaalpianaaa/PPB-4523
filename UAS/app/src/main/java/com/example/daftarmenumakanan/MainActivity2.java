@@ -7,7 +7,7 @@ import android.widget.ImageView;
 import android.widget.TextView;
 import android.widget.Toast;
 
-public class MainActivity2 extends AppCompatActivity {
+public class MainActivity2 extends AppCompatActivity{
     ImageView imageView2;
     TextView textNama2, textDeskripsi;
     String data1, data3;
@@ -17,6 +17,8 @@ public class MainActivity2 extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main2);
+
+
 
         imageView2 = findViewById(R.id.imageView2);
         textNama2 = findViewById(R.id.textNama2);

@@ -1,3 +1,5 @@
+package com.example.daftarmenumakanan;
+
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
@@ -16,7 +18,8 @@ import com.google.firebase.database.FirebaseDatabase;
 
 import java.util.ArrayList;
 
-public class TampilSemuaData extends AppCompatActivity {
+public class Tampil_SemuaData extends AppCompatActivity {
+
     ListView listView;
     ArrayAdapter arrayAdapter;
 
@@ -78,7 +81,7 @@ public class TampilSemuaData extends AppCompatActivity {
     }
 
     public void pindah5(View view) {
-        Intent intents = new Intent(TampilSemuaData.this, Pesan.class);
+        Intent intents = new Intent(Tampil_SemuaData.this, Pesan1.class);
         startActivity(intents);
     }
 }

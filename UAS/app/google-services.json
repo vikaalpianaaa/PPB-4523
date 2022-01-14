@@ -1,33 +1,33 @@
 {
   "project_info": {
-    "project_number": "237403851443",
-    "project_id": "uasproject-8afac",
-    "storage_bucket": "uasproject-8afac.appspot.com"
+    "project_number": "700391658124",
+    "project_id": "projectvika-d8fd8",
+    "storage_bucket": "projectvika-d8fd8.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:237403851443:android:1a09993a8473f421befec6",
+        "mobilesdk_app_id": "1:700391658124:android:ca50ac4c9faf496a2421a9",
         "android_client_info": {
           "package_name": "com.example.daftarmenumakanan"
         }
       },
       "oauth_client": [
         {
-          "client_id": "237403851443-26hmihmianh5obmvt2tprq1gn2pjoat0.apps.googleusercontent.com",
+          "client_id": "700391658124-1eqi0nrja6us4sorqhua1tspfq915npi.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDcK3GbX2-sylm6x4lYQB0pGGHfXfP2krk"
+          "current_key": "AIzaSyBOQy2b0rq7SlbD1bwy49ku_ftVgx4cikg"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "237403851443-26hmihmianh5obmvt2tprq1gn2pjoat0.apps.googleusercontent.com",
+              "client_id": "700391658124-1eqi0nrja6us4sorqhua1tspfq915npi.apps.googleusercontent.com",
               "client_type": 3
             }
           ]

@@ -6,7 +6,7 @@
     android:orientation="vertical"
     android:background="@color/grey"
     android:layout_height="match_parent"
-    tools:context=".Pesan">
+    tools:context=".Pesan1">
 
     <TextView
         android:layout_width="match_parent"
@@ -21,7 +21,7 @@
     <ImageView
         android:layout_width="match_parent"
         android:layout_height="300dp"
-        android:src="@drawable/welcome" />
+        android:src="@drawable/flash" />
 
     <View
         android:layout_width="match_parent"
