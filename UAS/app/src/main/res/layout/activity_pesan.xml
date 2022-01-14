@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:background="@color/grey"
+    android:layout_height="match_parent"
+    tools:context=".Pesan">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="37dp"
+        android:background="@color/blue"
+        android:text="AYO INPUT PESANAN MU"
+        android:textAlignment="center"
+        android:textColor="@color/white"
+        android:textSize="20sp"
+        android:textStyle="bold"/>
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+        android:src="@drawable/welcome" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="50dp"></View>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="170dp"
+        android:orientation="horizontal">
+
+        <LinearLayout
+            android:layout_width="160dp"
+            android:layout_height="138dp"
+            android:orientation="vertical"
+            android:padding="10dp">
+
+            <TextView
+                android:layout_width="150dp"
+                android:layout_height="wrap_content"
+                android:text="Nama Pesanan  :"
+                android:textSize="18dp"
+                android:textStyle="bold" />
+
+            <View
+                android:layout_width="0dp"
+                android:layout_height="20dp"></View>
+
+            <TextView
+                android:layout_width="148dp"
+                android:layout_height="wrap_content"
+                android:text="No Meja             :"
+                android:textSize="18dp"
+                android:textStyle="bold" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="220dp"
+            android:layout_height="138dp"
+            android:orientation="vertical">
+
+            <EditText
+                android:id="@+id/nmmhs"
+                android:layout_width="250dp"
+                android:layout_height="wrap_content" />
+
+            <EditText
+                android:id="@+id/nimmhs"
+                android:layout_width="250dp"
+                android:layout_height="wrap_content" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="132dp"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:padding="20dp">
+
+        <Button
+            android:id="@+id/tombolSave"
+            android:layout_width="143dp"
+            android:layout_height="70dp"
+            android:backgroundTint="@color/blue"
+            android:text="PESAN"
+            android:textSize="20dp" />
+
+        <View
+            android:layout_width="10dp"
+            android:layout_height="0dp"></View>
+
+        <Button
+            android:id="@+id/tombolView"
+            android:layout_width="170dp"
+            android:layout_height="70dp"
+            android:backgroundTint="@color/blue"
+            android:text="LIHAT PESANAN"
+            android:textSize="20dp" />
+    </LinearLayout>
+
+</LinearLayout>
